@@ -1,0 +1,8 @@
+S-a citit /home/xcell/Code/Projects/k-SAT-CSP-Research/tests/3-SAT/4.21/test56.cnf
+Start SAT. Rezultat: SAT
+Număr maxim de clauze 421
+Timp de execuție: 48402562μs
+Memorie consumată: 18378752 B.
+Memorie consumată: 17948 KB.
+Memorie consumată: 17 MB.
+Memorie consumată: 0 GB.
