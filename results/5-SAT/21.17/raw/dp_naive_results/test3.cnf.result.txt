@@ -1,0 +1,8 @@
+S-a citit /home/xcell/Code/Projects/k-SAT-CSP-Research/tests/5-SAT/21.17/test3.cnf
+Start SAT. Rezultat: UNKNOWN (timeout)
+Număr maxim de clauze: 298027
+Timp de execuție: 60000193μs
+Memorie consumată: 358154240 B.
+Memorie consumată: 349760 KB.
+Memorie consumată: 341 MB.
+Memorie consumată: 0 GB.
